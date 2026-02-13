@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Platform-x86_Architecture-red?style=for-the-badge" />
 </p>
 
-<p align="center"> 🌌 ARKALPY-OS: THE POLYGLOT BARE-METAL ARCHITECTURE 🌌 </p>
+<p align="center"> 🌌 ARKALPY-OS: THE POLYGLOT BARE-METAL ARCHITECTURE 🌌 ALPHA </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=300&section=header&text=ARkalpyOS&fontSize=120&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
