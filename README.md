@@ -1,4 +1,4 @@
-# ARkalpyOS
+# ARkalpyOS BETA
 🌌 ARkalpyOS
 ARkalpyOS é um sistema operacional desenvolvido do zero, projetado com uma arquitetura poliglota que abrange desde o controle direto do hardware até abstrações de alto nível para o ambiente de usuário.
 
